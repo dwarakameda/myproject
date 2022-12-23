@@ -1,1 +1,2 @@
-HI, this is file in git
+HI, this is file in git.
+Getting 2nd line
