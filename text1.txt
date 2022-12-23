@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is 5E47-A3B4
+
+ Directory of C:\Users\Dwaraka\Desktop\my project
+
+23-12-2022  19:32    <DIR>          .
+23-12-2022  19:25    <DIR>          ..
+23-12-2022  19:31               343 test1.txt
+23-12-2022  19:32                 0 text1.txt
+               2 File(s)            343 bytes
+               2 Dir(s)  160,433,098,752 bytes free
