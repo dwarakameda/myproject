@@ -1,0 +1,5 @@
+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
+
+curl -u 
+
+git remote set-url origin https://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@github.com/dwarakameda/myproject.git
